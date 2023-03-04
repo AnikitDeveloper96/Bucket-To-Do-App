@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "938207301275",
+    "project_id": "todobucketapp",
+    "storage_bucket": "todobucketapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:938207301275:android:eb02545a9b62f495f7c03e",
+        "android_client_info": {
+          "package_name": "com.example.todobucketapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "938207301275-htdrb5a8lp2jm65110ehllbdplpp3nj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.todobucketapp",
+            "certificate_hash": "26ca8882c73fac2109867f1b2ba8a732f9688b7a"
+          }
+        },
+        {
+          "client_id": "938207301275-adhc5g2v5na4dojsfdogfoc7q6s3r69b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3FQt6EWAx-n-1NdDkygWZmy4euh3xlt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "938207301275-adhc5g2v5na4dojsfdogfoc7q6s3r69b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
